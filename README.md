@@ -2,6 +2,7 @@
 Java projects in networking, mainly based on java.net library
 
 About this module:
+
 A module contain simple client and mirror-server classes, and uses 'java.net' library's sockets.
 Our Client main() program can optionally take up to 3 arguments -
   protocol (def=UDP), dest_ip (def=local_host), dest_port (def=DEF_PORT)
